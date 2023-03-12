@@ -1,0 +1,779 @@
+@media (max-width: 1500px) {
+
+  .Digital_Emporium_logo {
+    width:40%;
+  }
+  .search {
+    margin-right: -70px;
+}
+
+}
+ 
+
+@media (max-width: 1300px) {
+  .search__input {
+    width: 570px;
+  }
+}
+ 
+@media (max-width: 1200px) {
+
+  .Digital_Emporium_logo {
+    width: 40%;
+  }
+
+
+  .search {
+
+    margin-right: -94px;
+  }
+
+  .Product {
+    padding-left: 11px;
+}
+
+  .delivery.details {
+    width: 285px;
+}  
+ 
+
+}
+
+
+@media (max-width: 1157px) {
+  .search {
+      margin-right: -72px;
+  }
+
+  .search__input {
+    width: 517px;
+  }
+.Product{
+  flex-direction: column;
+  padding-left: 150px;
+}
+.column.left {
+   height: 467px;
+}
+
+ }
+  
+@media (max-width: 1051px) {
+  .search {
+      margin-right: -75px;
+  }
+
+  .search__input {
+    width: 460px;
+  }
+
+
+  .owner_img {
+    margin-top: 20px;
+    width: 99%;
+  }
+
+  .Product {
+    flex-direction: column;
+    padding-left: 98px;
+} 
+
+}
+
+@media (max-width: 1000px) {
+  .upper {
+    flex-direction: column;
+       flex-direction: column;
+      height: 122px;
+      padding: 9px;
+  }
+
+  .search__input {
+    width: 425px;
+  }
+
+  .Product {
+    padding-left: 0;
+    width: 100%;
+    margin-top: -189px;
+}
+
+
+.column.left {
+  min-height: 441px;
+width: 100%;
+}
+
+.P1_img_1  {
+width: 90%;
+margin-left: auto;
+margin-right: auto; 
+}
+
+.column.right {
+  width: 100%!important;
+}
+
+.delivery.details {
+  width: 100%;
+}
+
+
+.container {
+    flex-direction: column;
+    padding-bottom: 59px;
+  }
+
+  .Container_My_Accounts {
+    margin-top: 26px;
+  }
+
+
+  .Container_Contact_Us {
+    margin-top: 26px;
+  }
+
+
+  .Container_Follow_Us {
+    width: 29%;
+    margin-top: 26px;
+  }
+
+  .Container_img {
+    margin-top: 26px;
+  }
+
+  .QR_img {
+    width: 8%;
+    float: left;
+    margin-top: 26px;
+
+  }
+
+}
+
+
+@media (max-width:980px) {
+
+  .search {
+    margin-right: -89px;
+  }
+ 
+}
+
+  
+
+@media (max-width:900px) {
+.search__input {
+  width: 406px;
+}
+
+.Owner_name {
+   margin-right: -109px;
+} 
+}  
+
+@media (max-width:880px) {
+.Owner_name {
+   margin-right: -112px;
+}
+
+.owner_img {
+  margin-top: 5px;
+}
+.img_photo {
+  height: 34.7px;
+}
+
+}
+@media (max-width:850px) {
+
+  .search {
+    margin-right: -53px;
+}
+
+  .search__input {
+    width: 372px;
+  }
+
+  button.P_Figure_btn1 {
+    width: 215px;
+  }
+
+  button.P_Figure_btn2 {
+    width: 206px;
+}
+
+section.footer {
+  width: 831px;
+}
+
+
+}
+
+
+@media (max-width:830px) {
+
+  .owner_img {
+     width: 100%;
+}
+
+.Owner_name {
+  width: 265px;
+  font-size: x-small;
+  margin-right: -111px;
+}
+ 
+}
+ 
+ 
+@media (max-width:790px){
+.Owner_name {
+   font-size: 8px;
+  margin-right: -141px;
+}
+  
+
+button.P_Figure_btn1 {
+  width: 179px;
+}
+
+button.P_Figure_btn2 {
+  width: 177px;
+}
+
+
+section.footer {
+  width: 790px;
+}
+
+}
+
+
+@media (max-width:780px) {
+  .upper {
+     height: 106px;
+    padding: 9px;
+}
+
+  
+
+.home {
+     font-size: 14px;
+}
+
+.shop{
+     font-size: 14px;
+}
+
+.about{
+     font-size: 14px;
+}
+
+.section_title {
+     font-size: 11px;
+}
+
+
+.contact{
+  font-size: 14px;
+}
+
+
+.sign_up{
+  font-size: 14px;
+}
+
+.sign_in{
+     font-size: 14px;
+}
+
+.lower {
+  flex-direction: column;
+ text-align: center;
+  justify-content: space-between;
+   height: 166px;
+     padding: 12px;
+  }
+
+
+
+  .Digital_Emporium_logo {
+    width: 25%;
+}
+
+.search {
+  margin-right: -185px;
+  padding-top: 0px;
+}
+
+.search__input {
+   height: 29px;
+    font-size: 13px;
+  }
+
+.search__button {
+  height: 29.6px;
+}
+
+.search__icon {
+   font-size: 12px;
+}
+
+.Owner_name {
+   margin-right: -71px;
+}
+.owner_img {
+  margin-top: 3px;
+}
+
+.img_photo {
+   margin-right: 81px;
+}
+
+
+.Product {
+  margin-top: -118px;
+}
+
+
+
+section.footer {
+  width: 100%;
+}
+
+}  
+ 
+ 
+@media (max-width:738px) {
+ 
+
+
+  button.P_Figure_btn1 {
+    width: 167px;
+}
+
+button.P_Figure_btn2 {
+  width: 161px;
+}
+
+  .Container_categories {
+  width: 25%;
+}
+
+.Container_My_Accounts{
+  width: 25%;
+}
+
+.Container_Contact_Us {
+  width: 25%;
+}
+
+.Container_Follow_Us {
+  width: 25%;
+}
+
+
+}
+
+@media (max-width: 730px){
+  .figure {
+     flex-direction: column;
+}
+.column.left {
+  min-height: 857px;
+}
+
+p.paragraph_1 {
+  text-align: center;
+  margin-left: 0px;
+}
+
+.brand {
+   margin-left: 79px;
+}
+
+.no-brand {
+   margin-right: 81px;
+}
+
+.Quantity-detail {
+   margin-left: -6px;
+  justify-content: space-around;
+}
+
+.Price_container {
+  margin-left: 116px;
+}
+
+.P1_RS {
+   margin-top: -40px;
+}
+
+.arrows {
+    margin-left: 245px;
+}
+
+button.P_Figure_btn1 {
+   margin-left: 0px;
+}
+
+
+button.P_Figure_btn2 {
+  margin-left: 0px;
+}
+
+}
+ 
+@media (max-width:669px){ 
+
+  .arrows {
+    margin-left: 208px;
+}
+
+
+
+  .heading7 {
+   font-size: 15px;
+}
+
+} 
+
+@media (max-width:633px) {
+  .arrows {
+    margin-left: 189px;
+}
+ 
+  .Container_My_Accounts {
+    width: 25%;
+  }
+}
+  
+@media (max-width:630px) {
+   
+  .heading7 {
+   font-size: 14px;
+}
+}
+ 
+@media (max-width:595px) {
+
+  .brand {
+    margin-left: 63px;
+}
+
+.Price_container {
+  margin-left: 89px;
+}
+
+
+  .arrows {
+    margin-left: 166px;
+}
+ 
+ 
+  .Container_categories {
+    width: 30%;
+  }
+  
+  .Container_My_Accounts{
+    width: 30%;
+  }
+  
+  .Container_Contact_Us {
+    width: 30%;
+  }
+  
+  .Container_Follow_Us {
+    width: 30%;
+  }
+  
+  
+}
+ 
+  
+@media (max-width:500px) {
+  
+.lower {
+     height: 182px;
+}
+
+ 
+
+  .search__input {
+    width: 327px;
+    height: 31px;
+}
+ 
+.search__button {
+  height: 31.6px;
+}
+.search__icon {
+   font-size: 13px;
+}
+ 
+
+.brand {
+  margin-left: 32px;
+}
+
+.no-brand {
+  margin-right: 49px;
+}
+
+
+.Price_container {
+  margin-left: 60px;
+}
+
+.arrows {
+  margin-left: 124px;
+}
+
+.Container_categories {
+  width: 40%;
+}
+
+.Container_My_Accounts{
+  width: 40%;
+}
+
+.Container_Contact_Us {
+  width: 40%;
+}
+
+.Container_Follow_Us {
+  width: 40%;
+}
+.heading7 {
+  font-size: 12px;
+}
+} 
+ 
+
+@media (max-width:400px) {
+  .Digital_Emporium_logo {
+    width: 24%;
+}
+ 
+.search__input {
+  width: 288px;
+  height: 25px;
+}
+
+.search__button {
+  height: 25.6px;
+}
+
+.search__icon {
+  font-size: 11px;
+}
+
+.Owner_name {
+  width: 222px;
+  font-size: 8px;
+}
+.img_photo {
+  height: 32.7px;
+  margin-right: 20px;
+}
+
+.owner_img {
+  margin-right: 27px;
+}
+ 
+.brand {
+  margin-left: -5px;
+}
+
+.no-brand {
+  margin-right: 11px;
+}
+
+.Quantity-detail {
+  margin-left: -15px;
+}
+
+.Price_container {
+  margin-left: 32px;
+}
+
+
+
+.arrows {
+  margin-left: 77px;
+}
+
+}
+@media (max-width:390px) {
+       
+
+.Container_categories {
+  width: 100%;
+}
+
+.Container_My_Accounts{
+  width: 100%;
+}
+
+.Container_Contact_Us {
+  width: 100%;
+}
+
+.Container_Follow_Us {
+  width: 100%;
+}
+
+.Container_img {
+  width: 21%;
+}
+}
+
+@media (max-width:380px) {
+  .lower {
+    height: 169px;
+}
+
+.arrows {
+  margin-left: 61px;
+}
+
+}
+
+@media (max-width: 370px) {
+  
+  .Price_container {
+    margin-left: 22px;
+}
+
+button.P_Figure_btn1 {
+  width: 144px;
+  height: 39px;
+}
+
+button.P_Figure_btn2 {
+  width: 144px;
+  height: 39px;
+}
+
+.arrows {
+  width: 220px;
+  margin-left: 68px;
+}
+
+.QR_img {
+  width: 30%;
+ }
+
+}
+
+@media (max-width: 350px){
+.home {
+    font-size: 12px;
+}
+
+.shop {
+  font-size: 12px;
+}
+
+.about {
+  font-size: 12px;
+}
+
+.section_title {
+  font-size: 9px;
+}
+
+.contact {
+  font-size: 12px;
+}
+
+.sign_up {
+  font-size: 12px;
+}
+
+.sign_in {
+  font-size: 12px;
+}
+     }
+
+@media (max-width: 348px) {
+  .heading1 {
+   width: 349px;
+  }
+  .heading7 {
+    font-size: 8px;
+}
+ 
+}
+ 
+ 
+@media (max-width: 325px) {
+ 
+  .paragraph_1 {
+     font-size: 16px;
+}
+
+  .brand {
+    margin-left: -28px;
+}
+
+button.P_Figure_btn1 {
+  width: 129px;
+}
+
+button.P_Figure_btn2 {
+  width: 130px;
+}
+
+.arrows {
+   margin-left: 43px;
+}
+
+.location_address {
+   text-align: center;
+}
+
+.heading7 {
+  font-size: 10px;
+}
+
+}
+
+@media (max-width: 314px) {
+  .lower {
+    height: 164px;
+}
+  .search__input {
+    width: 269px;
+  }
+  
+
+}
+
+@media (max-width: 300px) {
+
+.paragraph_1 {
+  font-size: 12px;
+}
+.brand {
+  margin-left: -38px;
+}
+
+.no-brand {
+  font-size: 12px;
+}
+
+
+
+}
+@media (max-width: 283px) {
+
+.star {
+  width: 74px;
+}
+
+.Rating {
+   margin-left: 0px;
+   font-size: 12px;
+}
